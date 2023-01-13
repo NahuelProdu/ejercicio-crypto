@@ -1,8 +1,13 @@
+const findData = require("../../domain/mongoUtils/find");
 
-class TestController { 
-  test(req, res) {
-    res.send({ message: "Test"})
-  }
+class CoinController {
+    register(req, res) {
+        let coin = req.query.coin;
+        return findData(coin)
+            .then(data => {
+                res.send(data);
+            })
+    }
 }
 
-module.exports = new TestController()
+module.exports = new CoinController()
