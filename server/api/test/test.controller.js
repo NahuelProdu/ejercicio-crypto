@@ -2,8 +2,8 @@ const findData = require("../../domain/mongoUtils/find");
 
 class CoinController {
     register(req, res) {
-        let coin = req.query.coin;
-        return findData(coin)
+        let { coin, page } = req.query;
+        return findData(coin, page)
             .then(data => {
                 res.send(data);
             })
