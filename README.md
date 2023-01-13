@@ -11,9 +11,11 @@ Node 16.3
 
 3)
 
-Hacer un endpoint que devuelva todos los registros de la base de datos de forma paginada, permitiendo filtrar por moneda
-Hacer un endpoint que devuelva el precio promedio de todas las monedas de la base de datos en un cierto periodo de tiempo
-Hacer un endpoint que permita eliminar todos los registros de cierta moneda
+- Hacer un endpoint que devuelva todos los registros de la base de datos de forma paginada, permitiendo filtrar por moneda
+
+- Hacer un endpoint que devuelva el precio promedio de todas las monedas de la base de datos en un cierto periodo de tiempo
+- Hacer un endpoint que permita eliminar todos los registros de cierta moneda
 
 https://mongoosejs.com/docs/models.html
+
 https://expressjs.com/en/guide/using-middleware.html
