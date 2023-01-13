@@ -1,8 +1,19 @@
 const cryptoSchema = require("../schemas/crypto.schema");
 const config = require("../../config/environment");
 const mongoose = require("mongoose");
+const moment = require('moment');
 
-const findData = (cripto, page, limit = 5) => {
+const findDataDates = (initDate, finalDate) => {
+    mongoose.connect(config.mongo.uri, config.mongo.options);
+    return cryptoSchema.find({
+        date: {
+            $gte: moment(initDate).format(),
+            $lt: moment(finalDate).format()
+        }
+    })
+}
+
+const findDataPagination = (cripto, page, limit = 5) => {
     mongoose.connect(config.mongo.uri, config.mongo.options);
     if (page <= 0) page = 1;
     if (!cripto) {
@@ -16,4 +27,4 @@ const findData = (cripto, page, limit = 5) => {
     // TODO: En que momento cierro la conexion?
 }
 
-module.exports = findData
+module.exports = { findDataPagination, findDataDates }

@@ -1,9 +1,17 @@
-const findData = require("../../domain/mongoUtils/find");
+const {findDataPagination, findDataDates} = require("../../domain/mongoUtils/find");
 
 class CoinController {
     register(req, res) {
         let { coin, page } = req.query;
-        return findData(coin, page)
+        return findDataPagination(coin, page)
+            .then(data => {
+                res.send(data);
+            })
+    }
+
+    average(req, res) {
+        let { initDate, finalDate } = req.query;
+        return findDataDates(initDate, finalDate)
             .then(data => {
                 res.send(data);
             })

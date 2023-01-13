@@ -5,7 +5,6 @@ Main application file
 require("./srv-globals");
 
 process.env.NODE_ENV = process.env.NODE_ENV || "development";
-const moment = require('moment');
 const mongoose = require("mongoose");
 const config = require("./config/environment");
 const cryptoSchema = require("./domain/schemas/crypto.schema");
