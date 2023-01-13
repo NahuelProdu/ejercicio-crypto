@@ -1,1 +1,1075 @@
-{}
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sale",
+				"saleItems"
+			],
+			[
+				"_master",
+				"_masterIsTiendanube"
+			],
+			[
+				"in",
+				"incomplete"
+			],
+			[
+				"tien",
+				"TiendanubeApi"
+			],
+			[
+				"setting",
+				"SettingsApi"
+			],
+			[
+				"acc",
+				"AccessForm"
+			],
+			[
+				"toP",
+				"toProductecaAttributes"
+			],
+			[
+				"att",
+				"attributes"
+			],
+			[
+				"toC",
+				"toChannelImporterAttribute"
+			],
+			[
+				"_pa",
+				"_paginatedProducts"
+			],
+			[
+				"requ",
+				"_requestWithFullResponse"
+			],
+			[
+				"high",
+				"HighlandPagination"
+			],
+			[
+				"paymet",
+				"paymentintegration"
+			],
+			[
+				"prod",
+				"productsWithNoBundles"
+			],
+			[
+				"sal",
+				"salesOrder"
+			],
+			[
+				"_geta",
+				"_getActiveConfigurationForChannel"
+			],
+			[
+				"isE",
+				"isEqual"
+			],
+			[
+				"das",
+				"daysUntilClosed"
+			],
+			[
+				"filte",
+				"filteredItems"
+			],
+			[
+				"componentW",
+				"componentWillReceiveProps"
+			],
+			[
+				"componentWill",
+				"componentWillReceiveProps"
+			],
+			[
+				"aut",
+				"authorizations"
+			],
+			[
+				"a",
+				"authorizations"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"for",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"json",
+				"Pretty JSON: Format JSON"
+			],
+			[
+				"to",
+				"Toggle Comment"
+			],
+			[
+				"tog",
+				"Toggle Comment"
+			],
+			[
+				"babel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"babe",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"t",
+				"Toggle Comment"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/?wsl$/Ubuntu/home/producteca/producteca/nahue/ejercicio-crypto"
+	],
+	"file_history":
+	[
+		"/?wsl$/Ubuntu/home/producteca/producteca/mirakl/server/api/salesorders/index.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/mirakl/server/api/salesorders/salesorders.controller.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/mirakl/server/domain/services/salesorders.service.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/mirakl/server/domain/services/invoiceUploader/invoiceUploader.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/mirakl/server/services/apis/miraklApi.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/mirakl/server/config/local.env.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/mirakl/server/domain/schemas/user.methods.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/mirakl/server/domain/schemas/user.model.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/mirakl/server/services/channel.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/mirakl/server/domain/services/products.service.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/tiendanube/server/services/mappers/producteca/product.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/tiendanube/server/services/mappers/producteca/product.spec.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/tiendanube/server/domain/schemas/user.methods.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/tiendanube/server/domain/services/products.updater.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/tiendanube/server/services/mappers/producteca/channelImporterProduct.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/tiendanube/server/domain/services/products.importer.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/tiendanube/App_Data/jobs/triggered/queueSalesImportJob/job.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/tiendanube/server/config/environment/index.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/tiendanube/server/server/config/local.env.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/tiendanube/server/config/local.env.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/tiendanube/App_Data/jobs/continuous/salesImport/service.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/tiendanube/server/domain/services/salesorders.service.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/tiendanube/server/domain/schemas/user.model.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/tiendanube/server/auth/tiendanube/index.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/tiendanube/app/components/settingsDashboard/master/masterPrices.jsx",
+		"/?wsl$/Ubuntu/home/producteca/producteca/tiendanube/app/components/settingsDashboard/settingsDashboard.jsx",
+		"/?wsl$/Ubuntu/home/producteca/producteca/tiendanube/app/components/settingsDashboard/master/masterSales.jsx",
+		"/?wsl$/Ubuntu/home/producteca/producteca/tiendanube/app/components/settingsDashboard/master/masterForm.jsx",
+		"/?wsl$/Ubuntu/home/producteca/producteca/tiendanube/app/css/main.css",
+		"/?wsl$/Ubuntu/home/producteca/producteca/tiendanube/app/locales/es.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/tiendanube/app/components/form/checkboxInput.jsx",
+		"/?wsl$/Ubuntu/home/producteca/producteca/tiendanube/app/models/settings.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/tiendanube/app/components/settingsDashboard/master/masterStocks.jsx",
+		"/?wsl$/Ubuntu/home/producteca/producteca/tiendanube/server/auth/index.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/tiendanube/app/components/form/datePicker.jsx",
+		"/?wsl$/Ubuntu/home/producteca/producteca/tiendanube/app/components/settingsDashboard/master/masterForm.css",
+		"/?wsl$/Ubuntu/home/producteca/producteca/tiendanube/app/components/settingsDashboard/master/index.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/tiendanube/app/components/settingsDashboard/settingsForm.jsx",
+		"/?wsl$/Ubuntu/home/producteca/producteca/tiendanube/app/containers/settingsDashboard/settingsDashboard.jsx",
+		"/?wsl$/Ubuntu/home/producteca/producteca/tiendanube/app/components/settingsDashboard/accessForm/accessForm.jsx",
+		"/?wsl$/Ubuntu/home/producteca/producteca/tiendanube/app/components/productsImporter/productsImporter.jsx",
+		"/?wsl$/Ubuntu/home/producteca/producteca/tiendanube/app/settingsApi.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/tiendanube/app/services/settingsApi.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/tiendanube/server/api/settings/settings.controller.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/tiendanube/server/api/settings/index.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/tiendanube/server/domain/services/settings.service.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/tiendanube/server/services/apis/tiendanubeApi.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/tiendanube/app/components/settingsDashboard/accessForm/accessForm.css",
+		"/?wsl$/Ubuntu/home/producteca/producteca/tiendanube/app/components/settingsDashboard/settingsDashboard.css",
+		"/?wsl$/Ubuntu/home/producteca/producteca/tiendanube/app/components/settingsDashboard/accessForm/index.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/tiendanube/server/services/channel.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/tiendanube/package.json",
+		"/?wsl$/Ubuntu/home/producteca/producteca/tiendanube/server/api/proxy/proxy.controller.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/tiendanube/server/services/apis/baseApi.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/tiendanube/app/services/baseApi.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/tiendanube/test.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/tiendanube/server/api/proxy/index.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/tiendanube/app/routes.jsx",
+		"/?wsl$/Ubuntu/home/producteca/producteca/tiendanube/server/init/routes.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/tiendanube/server/services/apis/ipifyApi.js",
+		"/D/producteca/api/docs/paymentIntegration_orderId_migration.sql",
+		"/D/producteca/api/docs/paymentIntegration_tenantId_migration.sql",
+		"/?wsl$/Ubuntu/home/producteca/producteca/envio-pack/server/domain/services/shipment.service.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/envio-pack/server/config/environment/index.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/envio-pack/server/config/local.env.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/courierteca/src/services/couriers.service.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/couriers-api/server/api/couriers/couriers.controller.coffee",
+		"/?wsl$/Ubuntu/home/producteca/producteca/couriers-api/server/domain/shipmentCreator.coffee",
+		"/?wsl$/Ubuntu/home/producteca/producteca/couriers-api/server/config/local.env.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/couriers-api/server/api/couriers/index.coffee",
+		"/?wsl$/Ubuntu/home/producteca/producteca/web-client/app/components/productDetail/productDetail.jsx",
+		"/?wsl$/Ubuntu/home/producteca/producteca/web-client/app/components/productDetail/productPrices/productPrices.jsx",
+		"/C/Users/Usuario/Downloads/response charts (3).json",
+		"/?wsl$/Ubuntu/home/producteca/producteca/web-client/webpack/webpack.config.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/web-client/app/components/advancedFilters/advancedFiltersModal.jsx",
+		"/?wsl$/Ubuntu/home/producteca/producteca/web-client/app/epics/productDetail.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/web-client/app/components/publishProductWizard/generalListingPublish.jsx",
+		"/?wsl$/Ubuntu/home/producteca/producteca/web-client/app/components/publishProductsModal/productAttributesForm.jsx",
+		"/?wsl$/Ubuntu/home/producteca/producteca/web-client/app/components/productDetail/productInfo/productAttributes.jsx",
+		"/?wsl$/Ubuntu/home/producteca/producteca/web-client/app/epics/channelPublishModal.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/web-client/app/store/configureStore.js",
+		"/C/Users/Usuario/Downloads/response charts (1).json",
+		"/?wsl$/Ubuntu/home/producteca/producteca/web-client/app/locales/es.js",
+		"/?wsl$/Ubuntu/home/producteca/producteca/web-client/app/epics/integrations/channel.js",
+		"/?wsl$/Ubuntu/home/producteca/web-client/app/components/settingsDashboard/closeOrders/closeOrders.jsx",
+		"/?wsl$/Ubuntu/home/producteca/web-client/app/components/settingsDashboard/closeOrders/channelsTable.jsx",
+		"/?wsl$/Ubuntu/home/producteca/web-client/app/components/form/checkboxInput.jsx",
+		"/?wsl$/Ubuntu/home/producteca/web-client/app/components/settingsDashboard/closeOrders/channel.jsx",
+		"/?wsl$/Ubuntu/home/producteca/web-client/app/components/form/checkboxAll.jsx",
+		"/?wsl$/Ubuntu/home/producteca/web-client/app/components/settingsDashboard/closeOrders/closeOrders.css",
+		"/?wsl$/Ubuntu/home/producteca/web-client/app/components/settingsDashboard/billing/billing.css",
+		"/?wsl$/Ubuntu/home/producteca/web-client/app/components/settingsDashboard/billing/billingHistory/billingHistory.jsx",
+		"/?wsl$/Ubuntu/home/producteca/web-client/app/components/settingsDashboard/billing/billing.jsx",
+		"/?wsl$/Ubuntu/home/producteca/web-client/app/components/massiveUpdate/massiveUpdate.jsx",
+		"/?wsl$/Ubuntu/home/producteca/web-client/app/components/integrations/safetyStockField.jsx",
+		"/?wsl$/Ubuntu/home/producteca/web-client/app/components/form/index.js",
+		"/?wsl$/Ubuntu/home/producteca/web-client/app/components/form/formField.jsx",
+		"/?wsl$/Ubuntu/home/producteca/web-client/app/components/form/textInput.jsx",
+		"/?wsl$/Ubuntu/home/producteca/web-client/app/actions/closeOrders.js",
+		"/?wsl$/Ubuntu/home/producteca/web-client/app/epics/replicas.js",
+		"/?wsl$/Ubuntu/home/producteca/web-client/app/containers/App.jsx",
+		"/?wsl$/Ubuntu/home/producteca/web-client/app/epics/closeOrders.js",
+		"/?wsl$/Ubuntu/home/producteca/web-client/app/epics/index.js",
+		"/?wsl$/Ubuntu/home/producteca/web-client/app/services/oauthApi.js",
+		"/?wsl$/Ubuntu/home/producteca/web-client/app/containers/settingsDashboard/closeOrders/closeOrders.jsx",
+		"/?wsl$/Ubuntu/home/producteca/web-client/app/utils/getSalesChannels.js",
+		"/?wsl$/Ubuntu/home/producteca/web-client/app/components/saveBar/saveBar.jsx",
+		"/?wsl$/Ubuntu/home/producteca/web-client/app/locales/es.js",
+		"/?wsl$/Ubuntu/home/producteca/web-client/app/components/settingsDashboard/settingsDashboard.jsx",
+		"/?wsl$/Ubuntu/home/producteca/web-client/app/epics/products.js",
+		"/?wsl$/Ubuntu/home/producteca/web-client/app/components/integrations/channel/channel.jsx",
+		"/?wsl$/Ubuntu/home/producteca/web-client/app/components/settingsDashboard/invoicers/invoicers.jsx",
+		"/?wsl$/Ubuntu/home/producteca/web-client/app/containers/integrations/channel/channel.jsx",
+		"/?wsl$/Ubuntu/home/producteca/web-client/app/components/massiveUpdate/pickFieldsModal/pickFieldsModal.jsx",
+		"/?wsl$/Ubuntu/home/producteca/web-client/app/components/form/tagsField.jsx",
+		"/?wsl$/Ubuntu/home/producteca/web-client/app/components/integrations/mercadolibre/compatibilities/compatibilityForm.jsx",
+		"/?wsl$/Ubuntu/home/producteca/web-client/app/containers/channelImporter/channelImporter.jsx",
+		"/?wsl$/Ubuntu/home/producteca/web-client/app/components/integrations/mercadolibre/compatibilities/compatibilitiesModal.jsx",
+		"/?wsl$/Ubuntu/home/producteca/web-client/app/components/form/creatableSelectField.jsx",
+		"/D/producteca/web-client/app/components/settingsDashboard/settingsDashboard.jsx",
+		"/D/producteca/web-client/app/services/oauthApi.js",
+		"/D/producteca/web-client/app/epics/products.js",
+		"/D/producteca/web-client/app/utils/getSalesChannels.js",
+		"/D/producteca/web-client/app/epics/productDetail.js",
+		"/D/producteca/web-client/app/components/settingsDashboard/routes.jsx",
+		"/D/producteca/web-client/app/containers/settingsDashboard/closeOrders/closeOrders.jsx",
+		"/D/producteca/web-client/app/components/settingsDashboard/closeOrders/closeOrders.jsx",
+		"/D/producteca/web-client/app/components/settingsDashboard/billing/invoice/invoice.jsx"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 107.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"logte",
+			"_inStatus",
+			".split",
+			"acceptOrder",
+			"sites/MLA/configuration",
+			"async",
+			"CHANNEL_ASYNC_URI",
+			"window",
+			"syncedSales",
+			"importSalesWindowDays",
+			"channel",
+			"onAuthorize",
+			"salesSync",
+			"shopify",
+			"synchro",
+			"_synchroPropEnabled",
+			"hasPicturesSynchroEnabled",
+			"deliveryGatewaysInput",
+			"deliveryGatewaysComponent",
+			"carriersComponent",
+			"shopi",
+			"shopify",
+			"shopify-master-sales",
+			"shopify",
+			"_synchroPropEnabled",
+			"label",
+			"form-container",
+			"span",
+			"clickable",
+			"config/client",
+			"clientConfig",
+			"span",
+			"button",
+			"link",
+			"verifyCredentials",
+			"syncro",
+			"onChangeValidCredentials",
+			"accessForm",
+			"tiendanube",
+			"shop",
+			"synchronization",
+			"Talle",
+			"Color",
+			"product_variations_with_different_types",
+			"parseDouble",
+			".products",
+			"toChannelImporterAttribute",
+			"TIENDANUBE_CLIENT_SECRET",
+			"tiendaNubleApi",
+			"TiendaNubleApi",
+			"tiendaNubleApi",
+			"TiendaNubeApi",
+			"tiendaNubleApi",
+			"TiendaNubleApi",
+			"avenidaApi",
+			"tiendanubeApi",
+			"shopify",
+			"shopifyApi",
+			"ShopifyApi",
+			"shopifyApi",
+			"sendToApp30",
+			"sendtoApp30",
+			"tenantid",
+			"tenantid_already_exist"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "crypto.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"miraklapi",
+				"server\\services\\apis\\miraklApi.js"
+			],
+			[
+				"salesor serv",
+				"server\\domain\\services\\salesorders.service.js"
+			],
+			[
+				"user meth",
+				"\\\\wsl$\\Ubuntu\\home\\producteca\\producteca\\mirakl\\server\\domain\\schemas\\user.methods.js"
+			],
+			[
+				"user mod",
+				"server\\domain\\schemas\\user.model.js"
+			],
+			[
+				"user me",
+				"server\\domain\\schemas\\user.methods.js"
+			],
+			[
+				"chann",
+				"server\\services\\channel.js"
+			],
+			[
+				"products.erv",
+				"server\\domain\\services\\products.service.js"
+			],
+			[
+				"loca",
+				"server\\config\\local.env.js"
+			],
+			[
+				"miraklap",
+				"server\\services\\apis\\miraklApi.js"
+			],
+			[
+				"producteca product",
+				"server\\services\\mappers\\producteca\\product.js"
+			],
+			[
+				"channelimporter",
+				"server\\services\\mappers\\producteca\\channelImporterProduct.js"
+			],
+			[
+				"products serv",
+				"server\\domain\\services\\products.updater.js"
+			],
+			[
+				"produteca/prod",
+				"server\\services\\mappers\\producteca\\product.js"
+			],
+			[
+				"configi nde",
+				"server\\config\\environment\\index.js"
+			],
+			[
+				"config inde",
+				"server\\config\\environment\\index.js"
+			],
+			[
+				"cofig index",
+				"server\\config\\environment\\index.js"
+			],
+			[
+				"user mo",
+				"server\\domain\\schemas\\user.model.js"
+			],
+			[
+				"local",
+				"server\\config\\local.env.js"
+			],
+			[
+				"sales",
+				"server\\domain\\services\\salesorders.service.js"
+			],
+			[
+				"onfig inde",
+				"server\\config\\environment\\index.js"
+			],
+			[
+				"salesorder serv",
+				"server\\domain\\services\\salesorders.service.js"
+			],
+			[
+				"user ",
+				"server\\domain\\schemas\\user.model.js"
+			],
+			[
+				"auth tiendanu",
+				"server\\auth\\tiendanube\\index.js"
+			],
+			[
+				"auth index",
+				"server\\auth\\index.js"
+			],
+			[
+				"model sett",
+				"app\\models\\settings.js"
+			],
+			[
+				"model set",
+				"app\\models\\settings.js"
+			],
+			[
+				"dake",
+				"app\\components\\form\\datePicker.jsx"
+			],
+			[
+				"masterfo",
+				"app\\components\\settingsDashboard\\master\\masterForm.jsx"
+			],
+			[
+				"use",
+				"server\\domain\\schemas\\user.model.js"
+			],
+			[
+				"userme",
+				"server\\domain\\schemas\\user.methods.js"
+			],
+			[
+				"lo",
+				"server\\config\\local.env.js"
+			],
+			[
+				"user met",
+				"server\\domain\\schemas\\user.methods.js"
+			],
+			[
+				"userm",
+				"server\\domain\\schemas\\user.model.js"
+			],
+			[
+				"es",
+				"app\\locales\\es.js"
+			],
+			[
+				"checkboxin",
+				"app\\components\\form\\checkboxInput.jsx"
+			],
+			[
+				"main",
+				"app\\css\\main.css"
+			],
+			[
+				"master",
+				"app\\components\\settingsDashboard\\master\\masterSales.jsx"
+			],
+			[
+				"settingsfor",
+				"app\\components\\settingsDashboard\\settingsForm.jsx"
+			],
+			[
+				"settingsform",
+				"app\\components\\settingsDashboard\\settingsForm.jsx"
+			],
+			[
+				"settings.ser",
+				"server\\domain\\services\\settings.service.js"
+			],
+			[
+				"settings mo",
+				"app\\models\\settings.js"
+			],
+			[
+				"",
+				"server\\domain\\services\\settings.service.js"
+			],
+			[
+				"settings serv",
+				"server\\domain\\services\\settings.service.js"
+			],
+			[
+				"settings servi",
+				"server\\domain\\services\\settings.service.js"
+			],
+			[
+				"settings mode",
+				"app\\models\\settings.js"
+			],
+			[
+				"settings model",
+				"app\\models\\settings.js"
+			],
+			[
+				"acc",
+				"app\\components\\settingsDashboard\\accessForm\\accessForm.jsx"
+			],
+			[
+				"acces",
+				"app\\components\\settingsDashboard\\accessForm\\accessForm.jsx"
+			],
+			[
+				"settin",
+				"app\\components\\settingsDashboard\\settingsDashboard.jsx"
+			],
+			[
+				"settingsda",
+				"app\\containers\\settingsDashboard\\settingsDashboard.jsx"
+			],
+			[
+				"ac",
+				"app\\components\\settingsDashboard\\accessForm\\accessForm.jsx"
+			],
+			[
+				"tiendanu",
+				"server\\services\\apis\\tiendanubeApi.js"
+			],
+			[
+				"settings ervice",
+				"server\\domain\\services\\settings.service.js"
+			],
+			[
+				"tiendanube",
+				"server\\services\\apis\\tiendanubeApi.js"
+			],
+			[
+				"settings ser",
+				"server\\domain\\services\\settings.service.js"
+			],
+			[
+				"settings con",
+				"server\\api\\settings\\settings.controller.js"
+			],
+			[
+				"services ettingsapi",
+				"app\\services\\settingsApi.js"
+			],
+			[
+				"app settingsap",
+				"app\\settingsApi.js"
+			],
+			[
+				"settingsapi",
+				"app\\settingsApi.js"
+			],
+			[
+				"models sett",
+				"app\\models\\settings.js"
+			],
+			[
+				"cont settingsda",
+				"app\\containers\\settingsDashboard\\settingsDashboard.jsx"
+			],
+			[
+				"cont accesf",
+				"app\\components\\settingsDashboard\\accessForm.jsx"
+			],
+			[
+				"sett",
+				"app\\components\\settingsDashboard\\settingsDashboard.jsx"
+			],
+			[
+				"config",
+				"server\\config\\environment\\index.js"
+			],
+			[
+				"tienda",
+				"server\\services\\apis\\tiendanubeApi.js"
+			],
+			[
+				"ocal",
+				"server\\config\\local.env.js"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"server base",
+				"server\\services\\apis\\baseApi.js"
+			],
+			[
+				"ser base",
+				"app\\services\\baseApi.js"
+			],
+			[
+				"proxyc",
+				"server\\api\\proxy\\proxy.controller.js"
+			],
+			[
+				"config in",
+				"server\\config\\environment\\index.js"
+			],
+			[
+				"routes",
+				"server\\init\\routes.js"
+			],
+			[
+				"confi index",
+				"server\\config\\environment\\index.js"
+			],
+			[
+				"tiendanubeap",
+				"server\\services\\apis\\tiendanubeApi.js"
+			],
+			[
+				"products.",
+				"server\\domain\\services\\products.importer.js"
+			],
+			[
+				"shipment",
+				"server\\domain\\adapters\\shipmentAdapter\\shipment.adapter.js"
+			],
+			[
+				"onfig index",
+				"server\\config\\environment\\index.js"
+			],
+			[
+				"shipment serv",
+				"server\\domain\\services\\shipment.service.js"
+			],
+			[
+				"courierserv",
+				"src\\services\\couriers.service.js"
+			],
+			[
+				"ship",
+				"server\\domain\\shipmentCreator.coffee"
+			],
+			[
+				"courier contro",
+				"server\\api\\couriers\\couriers.controller.coffee"
+			],
+			[
+				"productprices",
+				"app\\components\\productDetail\\productPrices\\productPrices.jsx"
+			],
+			[
+				"productdetail",
+				"app\\components\\productDetail\\productDetail.jsx"
+			],
+			[
+				"webpack",
+				"webpack\\webpack.config.js"
+			],
+			[
+				"advancedfil",
+				"app\\components\\advancedFilters\\advancedFiltersModal.jsx"
+			],
+			[
+				"epics product",
+				"app\\epics\\productDetail.js"
+			],
+			[
+				"productde",
+				"app\\components\\productDetail\\productDetail.jsx"
+			],
+			[
+				"we",
+				"webpack\\webpack.config.js"
+			],
+			[
+				"ProductAttributes",
+				"app\\components\\productDetail\\productInfo\\productAttributes.jsx"
+			],
+			[
+				"epic channelpubli",
+				"app\\epics\\channelPublishModal.js"
+			],
+			[
+				"channels epic",
+				"app\\epics\\integrations\\channel.js"
+			],
+			[
+				"webpack con",
+				"webpack\\webpack.config.js"
+			],
+			[
+				"ProductAttributesForm",
+				"app\\components\\publishProductsModal\\productAttributesForm.jsx"
+			],
+			[
+				"checkb",
+				"app\\components\\form\\checkboxInput.jsx"
+			],
+			[
+				"closeorders chann",
+				"app\\components\\settingsDashboard\\closeOrders\\channel.jsx"
+			],
+			[
+				"channelstab",
+				"app\\components\\settingsDashboard\\closeOrders\\channelsTable.jsx"
+			],
+			[
+				"CheckboxAll",
+				"app\\components\\form\\checkboxAll.jsx"
+			],
+			[
+				"hannelTa",
+				"app\\components\\settingsDashboard\\closeOrders\\channelsTable.jsx"
+			],
+			[
+				"closeorders",
+				"app\\components\\settingsDashboard\\closeOrders\\closeOrders.jsx"
+			],
+			[
+				"billingh",
+				"app\\components\\settingsDashboard\\billing\\billingHistory\\billingHistory.jsx"
+			],
+			[
+				"billing.css",
+				"app\\components\\settingsDashboard\\billing\\billing.css"
+			],
+			[
+				"close epic",
+				"app\\epics\\closeOrders.js"
+			],
+			[
+				"close actio",
+				"app\\actions\\closeOrders.js"
+			],
+			[
+				"getSalesChannels",
+				"app\\utils\\getSalesChannels.js"
+			],
+			[
+				"container close",
+				"app\\containers\\settingsDashboard\\closeOrders\\closeOrders.jsx"
+			],
+			[
+				"savebar",
+				"app\\components\\saveBar\\saveBar.jsx"
+			],
+			[
+				"closeo ",
+				"app\\containers\\settingsDashboard\\closeOrders\\closeOrders.jsx"
+			],
+			[
+				"cont close",
+				"app\\containers\\settingsDashboard\\closeOrders\\closeOrders.jsx"
+			],
+			[
+				"comp closeorders",
+				"app\\components\\settingsDashboard\\closeOrders\\closeOrders.jsx"
+			],
+			[
+				"epics inde",
+				"app\\epics\\index.js"
+			],
+			[
+				"oauth",
+				"app\\services\\oauthApi.js"
+			],
+			[
+				"epic replica",
+				"app\\epics\\replicas.js"
+			],
+			[
+				"container closeor",
+				"app\\containers\\settingsDashboard\\closeOrders\\closeOrders.jsx"
+			],
+			[
+				"TextInput",
+				"app\\components\\form\\textInput.jsx"
+			],
+			[
+				"container closeOr",
+				"app\\containers\\settingsDashboard\\closeOrders\\closeOrders.jsx"
+			],
+			[
+				"container closeO",
+				"app\\containers\\settingsDashboard\\closeOrders\\closeOrders.jsx"
+			],
+			[
+				"formfield",
+				"app\\components\\form\\formField.jsx"
+			],
+			[
+				"form inde",
+				"app\\components\\form\\index.js"
+			],
+			[
+				"cont channels",
+				"app\\containers\\channelImporter\\channelImporter.jsx"
+			],
+			[
+				"ont channe",
+				"app\\components\\settingsDashboard\\closeOrders\\channelsTable.jsx"
+			],
+			[
+				"contai integrationschannel",
+				"app\\containers\\integrations\\channel\\channel.jsx"
+			],
+			[
+				"productdetail epic",
+				"app\\epics\\productDetail.js"
+			],
+			[
+				"oauthA",
+				"app\\services\\oauthApi.js"
+			],
+			[
+				"utils gets",
+				"app\\utils\\getSalesChannels.js"
+			],
+			[
+				"epic products",
+				"app\\epics\\products.js"
+			],
+			[
+				"es.",
+				"app\\locales\\es.js"
+			],
+			[
+				"setting",
+				"app\\components\\settingsDashboard\\settingsDashboard.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"\\\\wsl$\\Ubuntu\\home\\producteca\\producteca\\mirakl\\mirakl.sublime-project"
+			],
+			[
+				"web",
+				"D:\\producteca\\web-client\\web-client.sublime-project"
+			],
+			[
+				"shope",
+				"\\\\wsl$\\Ubuntu\\home\\producteca\\producteca\\shopee\\shopee.sublime-project"
+			],
+			[
+				"shopee",
+				"\\\\wsl$\\Ubuntu\\home\\producteca\\producteca\\shopee\\shopee.sublime-project"
+			],
+			[
+				"shop",
+				"\\\\wsl$\\Ubuntu\\home\\producteca\\producteca\\shopify\\shopify.sublime-project"
+			],
+			[
+				"sho",
+				"\\\\wsl$\\Ubuntu\\home\\producteca\\producteca\\shopify\\shopify.sublime-project"
+			],
+			[
+				"shopi",
+				"\\\\wsl$\\Ubuntu\\home\\producteca\\producteca\\shopify\\shopify.sublime-project"
+			],
+			[
+				"sh",
+				"\\\\wsl$\\Ubuntu\\home\\producteca\\producteca\\shopify\\shopify.sublime-project"
+			],
+			[
+				"icbc",
+				"D:\\producteca\\icbc\\icbc.sublime-project"
+			],
+			[
+				"sell",
+				"\\\\wsl$\\Ubuntu\\home\\producteca\\producteca\\seller-center\\seller-center.sublime-project"
+			],
+			[
+				"seller",
+				"\\\\wsl$\\Ubuntu\\home\\producteca\\producteca\\seller-center\\seller-center.sublime-project"
+			],
+			[
+				"couriuer",
+				"D:\\producteca\\couriers-api\\couriers-api.sublime-project"
+			],
+			[
+				"cour",
+				"\\\\wsl$\\Ubuntu\\home\\producteca\\producteca\\courierteca\\courierteca.sublime-project"
+			],
+			[
+				"courier",
+				"\\\\wsl$\\Ubuntu\\home\\producteca\\producteca\\courierteca\\courierteca.sublime-project"
+			],
+			[
+				"claro",
+				"D:\\producteca\\claroshop\\claroshop.sublime-project"
+			],
+			[
+				"oaut",
+				"D:\\producteca\\oauth2-server\\oauth2-server.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 306.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

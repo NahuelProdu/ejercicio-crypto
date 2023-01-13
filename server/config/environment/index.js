@@ -12,6 +12,7 @@ module.exports = {
   env: process.env.NODE_ENV,
   root: path.normalize(__dirname + "/../../.."),
   seedDB: false,
+  port: process.env.PORT || 9001,
   secrets: {
     session: process.env.SESSION_SECRET || "secret"
   },

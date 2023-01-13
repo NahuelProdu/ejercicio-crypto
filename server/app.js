@@ -10,6 +10,7 @@ const mongoose = require("mongoose");
 const config = require("./config/environment");
 const cryptoSchema = require("./domain/schemas/crypto.schema");
 const asciichart = require('asciichart');
+const express = require("express")
 
 mongoose.Promise = require("bluebird")
 mongoose.connect(config.mongo.uri, config.mongo.options);
@@ -42,4 +43,27 @@ return cryptoSchema.find({ acronym: cripto })
         console.log("\nGracias vuelvas prontos")
         return mongoose.disconnect()
     })
+
+    
+// var app = express();
+
+// var server = require("http").createServer(app);
+
+// require("./config/express")(app);
+
+// require("./routes")(app);
+
+// require("./errorHandler")(app);
+
+
+// server.listen(config.port, config.ip, () => {
+//     console.log("Express server listening on %d, in %s mode", config.port, app.get("env"))
+// });
+
+
+
+
+
+
+
 
