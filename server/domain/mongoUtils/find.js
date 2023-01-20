@@ -31,6 +31,7 @@ const findDataDates = (initDate, finalDate) => {
 
             return averages;
         })
+    // TODO: En que momento cierro la conexion?
 }
 
 const findDataPagination = (cripto, page, limit = 5) => {
@@ -47,4 +48,11 @@ const findDataPagination = (cripto, page, limit = 5) => {
     // TODO: En que momento cierro la conexion?
 }
 
-module.exports = { findDataPagination, findDataDates }
+const findDataAndDelete = (cripto) => {
+    mongoose.connect(config.mongo.uri, config.mongo.options);
+    let coinUpper = cripto.toUpperCase();
+    return cryptoSchema.deleteMany({ acronym: coinUpper })
+    // TODO: En que momento cierro la conexion?
+}
+
+module.exports = { findDataPagination, findDataDates, findDataAndDelete }
