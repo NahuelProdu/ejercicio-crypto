@@ -11,7 +11,7 @@ const cryptoSchema = require("./domain/schemas/crypto.schema");
 const asciichart = require('asciichart');
 const express = require("express")
 
-mongoose.Promise = require("bluebird")
+mongoose.Promise = require("bluebird");
 mongoose.connect(config.mongo.uri, config.mongo.options);
 
 // mongoose.connection.on('open', _ => {
